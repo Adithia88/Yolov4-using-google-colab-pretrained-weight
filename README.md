@@ -11,3 +11,4 @@ demo for yolov4 darknet using google colab
 
 5.just run the code 
 
+6.https://youtu.be/KqZMSDjUfWc the demo video in youtube 
